@@ -1,28 +1,23 @@
-<img align="right" width="440" src="assets/quarto.gif" alt="Cena do meu portfólio jogável: eu no computador, com as minhas duas gatinhas">
-
-<img src="assets/titulo.svg" alt="Olá, eu sou o Lucas!" height="44">
-
-Sou de Guaíba/RS e trabalho com **infraestrutura e suporte de TI** em ambientes Microsoft: Active Directory, Microsoft Entra ID e Microsoft 365, com automação em PowerShell e scripts .bat. Sou formado em Análise e Desenvolvimento de Sistemas e certificado **AWS Cloud Practitioner**. Hoje estudo cloud e automação com IA, colocando tudo em prática em projetos próprios, e busco uma vaga de **Analista de Infraestrutura Júnior**.
-
-A cena ao lado é do meu **[portfólio jogável](https://lucas-amaralz.github.io/portfolio/)**. 🐈
-
-### Fale comigo
-
-<p>
-<a href="https://lucas-amaralz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-21262d?style=for-the-badge&logo=githubpages&logoColor=ffb648" alt="Portfólio"></a> <a href="https://www.linkedin.com/in/lucas-amaral-ti"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=ffb648" alt="LinkedIn"></a> <a href="mailto:Amlucaz@gmail.com"><img src="https://img.shields.io/badge/E--mail-21262d?style=for-the-badge&logo=gmail&logoColor=ffb648" alt="E-mail"></a> <a href="https://lucas-amaralz.github.io/portfolio/curriculo.pdf"><img src="https://img.shields.io/badge/Currículo-21262d?style=for-the-badge&logo=readthedocs&logoColor=ffb648" alt="Currículo"></a>
+<p align="center">
+  <img src="assets/terminal.svg" alt="Lucas Nunes Amaral, Analista de Infraestrutura: Active Directory, Entra ID, Microsoft 365, AWS e automação com PowerShell" width="100%">
 </p>
 
-### Minhas ferramentas
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucas-Amaralz&locale=pt_BR&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6FF3E0&sideLabels=8B949E&dates=6E7681" alt="Sequência de contribuições" width="100%">
+</p>
 
-<img src="https://skillicons.dev/icons?i=windows,azure,aws,powershell,bash,linux,git,github,vscode,html,css,js&theme=dark&perline=12" alt="Windows, Azure, AWS, PowerShell, Bash, Linux, Git, GitHub, VS Code, HTML, CSS e JavaScript">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Amaralz&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=6FF3E0&icon_color=A78BFA&text_color=C9D1D9&custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Amaralz&layout=compact&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=6FF3E0&text_color=C9D1D9&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" height="170">
+</p>
 
-<sub>E também: Active Directory · Microsoft Entra ID · Microsoft 365 · Zabbix · n8n · TCP/IP, DNS e DHCP</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lucas-Amaralz/Lucas-Amaralz/output/snake.svg" alt="Cobrinha passando pelas contribuições" width="100%">
+</p>
 
-<br clear="right">
-
-### Projetos em destaque
-
-| Projeto | O que é |
-|---|---|
-| 🪟 **[Automação Windows 11](https://github.com/Lucas-Amaralz/Automacao-windows1)** | Provisionamento automatizado de equipamentos Windows com Autounattend.xml e scripts .bat, **sem nenhuma senha no pendrive**. |
-| 🏠 **[Portfólio jogável](https://github.com/Lucas-Amaralz/portfolio)** | Uma história interativa que termina no meu currículo, feita com HTML, CSS e JavaScript puro. **[Jogue aqui](https://lucas-amaralz.github.io/portfolio/)**. |
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-amaral-ti"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e6edf3" alt="LinkedIn"></a>
+  <a href="https://lucas-amaralz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=githubpages&logoColor=6ff3e0" alt="Portfólio"></a>
+  <a href="https://lucas-amaralz.github.io/portfolio/curriculo.pdf"><img src="https://img.shields.io/badge/Currículo-0d1117?style=for-the-badge&logo=readthedocs&logoColor=a78bfa" alt="Currículo"></a>
+  <a href="mailto:Amlucaz@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="E-mail"></a>
+</p>
