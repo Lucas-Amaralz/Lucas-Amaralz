@@ -1,19 +1,24 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Lucas Nunes Amaral, Analista de Infraestrutura" width="100%">
-</p>
+<img align="right" width="440" src="assets/quarto.gif" alt="Cena do meu portfólio jogável: eu no computador, com as minhas duas gatinhas">
 
-<p align="center">
-  <a href="https://lucas-amaralz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio_jogável-ffb648?style=for-the-badge&logo=githubpages&logoColor=1a1210" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/lucas-amaral-ti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Amlucaz@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://lucas-amaralz.github.io/portfolio/curriculo.pdf"><img src="https://img.shields.io/badge/Currículo_(PDF)-2b2440?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo"></a>
-</p>
+<img src="assets/titulo.svg" alt="Olá, eu sou o Lucas!" height="44">
 
-Trabalho com **infraestrutura e suporte de TI** em ambientes Microsoft, com foco em gestão de identidades, automação e segurança. Formado em Análise e Desenvolvimento de Sistemas, estou estudando cloud e automação com IA e buscando uma vaga de **Analista de Infraestrutura Júnior**.
+Sou de Guaíba/RS e trabalho com **infraestrutura e suporte de TI** em ambientes Microsoft: Active Directory, Microsoft Entra ID e Microsoft 365, com automação em PowerShell e scripts .bat. Sou formado em Análise e Desenvolvimento de Sistemas e certificado **AWS Cloud Practitioner**. Hoje estudo cloud e automação com IA, colocando tudo em prática em projetos próprios, e busco uma vaga de **Analista de Infraestrutura Júnior**.
+
+A cena ao lado é do meu **[portfólio jogável](https://lucas-amaralz.github.io/portfolio/)**. 🐈
+
+### Fale comigo
 
 <p>
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square" alt="Active Directory"> <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square" alt="Microsoft Entra ID"> <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square" alt="Microsoft 365"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<a href="https://lucas-amaralz.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-21262d?style=for-the-badge&logo=githubpages&logoColor=ffb648" alt="Portfólio"></a> <a href="https://www.linkedin.com/in/lucas-amaral-ti"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=ffb648" alt="LinkedIn"></a> <a href="mailto:Amlucaz@gmail.com"><img src="https://img.shields.io/badge/E--mail-21262d?style=for-the-badge&logo=gmail&logoColor=ffb648" alt="E-mail"></a> <a href="https://lucas-amaralz.github.io/portfolio/curriculo.pdf"><img src="https://img.shields.io/badge/Currículo-21262d?style=for-the-badge&logo=readthedocs&logoColor=ffb648" alt="Currículo"></a>
 </p>
+
+### Minhas ferramentas
+
+<img src="https://skillicons.dev/icons?i=windows,azure,aws,powershell,bash,linux,git,github,vscode,html,css,js&theme=dark&perline=12" alt="Windows, Azure, AWS, PowerShell, Bash, Linux, Git, GitHub, VS Code, HTML, CSS e JavaScript">
+
+<sub>E também: Active Directory · Microsoft Entra ID · Microsoft 365 · Zabbix · n8n · TCP/IP, DNS e DHCP</sub>
+
+<br clear="right">
 
 ### Projetos em destaque
 
